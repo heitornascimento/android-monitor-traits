@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MonitoringTraits</string>
+    <string name="log_message">Verify debug Logs</string>
+</resources>
